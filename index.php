@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+echo "It is my first page";
 
 ?>
